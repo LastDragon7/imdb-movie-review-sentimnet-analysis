@@ -1,5 +1,5 @@
 # IMDb Movie Review Sentiment Analysis
-This project involves performing sentiment analysis on IMDb movie reviews using four different machine learning models: Gaussian Naive Bayes (GaussianNB), Multinomial Naive Bayes (MultinomialNB), Bernoulli Naive Bayes (BernoulliNB), and Logistic Regression. Our objective is to classify the sentiment of movie reviews as either positive or negative. Among these models, Logistic Regression performs the best with an accuracy of 87%.
+This project involves performing sentiment analysis on IMDb movie reviews using four different machine learning models: Gaussian Naive Bayes (GaussianNB), Multinomial Naive Bayes (MultinomialNB), Bernoulli Naive Bayes (BernoulliNB), and Logistic Regression. Our objective is to classify the sentiment of movie reviews as either positive or negative. Among these models, Logistic Regression performs the best with an accuracy of 86.09%.
 
 # Introduction
 Sentiment analysis is a crucial task in natural language processing (NLP) that involves determining the sentiment behind a piece of text. This project focuses on analyzing IMDb movie reviews to classify them into positive or negative sentiments. We use four different classifiers to perform this task and compare their performance.
